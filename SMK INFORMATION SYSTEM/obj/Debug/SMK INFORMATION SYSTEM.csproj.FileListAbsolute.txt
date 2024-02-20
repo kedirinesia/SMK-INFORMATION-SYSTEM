@@ -1,0 +1,24 @@
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK INFORMATION SYSTEM.csproj.AssemblyReference.cache
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.Properties.Resources.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK INFORMATION SYSTEM.csproj.GenerateResource.cache
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK INFORMATION SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\bin\Debug\SMK INFORMATION SYSTEM.exe.config
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\bin\Debug\SMK INFORMATION SYSTEM.exe
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\bin\Debug\SMK INFORMATION SYSTEM.pdb
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK INFORMATION SYSTEM.exe
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK INFORMATION SYSTEM.pdb
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.FrmLogin.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.TeacherNavigationForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.TeachingScheduleForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.AdminNavigationForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.EditProfileForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.FrmViewSchedule.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.ManageClassForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.ManageScheduleForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.ManageStudentForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.ManageTeacherForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.StudentNavigationForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.SubjectForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.StudentEditProfileForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.ViewScheduleForm.resources
+C:\Users\messi\source\repos\SMK INFORMATION SYSTEM\SMK INFORMATION SYSTEM\obj\Debug\SMK_INFORMATION_SYSTEM.Form1.resources

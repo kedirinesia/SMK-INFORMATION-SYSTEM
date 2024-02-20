@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\SMK INFORMATION SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\manageclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\manageclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|d:\\repos\\smk information system\\smk information system\\manageclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\manageclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\managescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\managescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\managescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\managescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\teachernavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\teachernavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\managestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\managestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\teachernavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\teachernavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\teachingscheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\teachingscheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\adminnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\adminnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\adminnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\adminnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\manageteacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\manageteacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\manageteacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\manageteacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\managestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\managestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\frmviewschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\frmviewschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\frmviewschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\frmviewschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\studentnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\studentnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\studentnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\studentnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\studenteditprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\studenteditprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\editprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\manageclassform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\manageclassform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|D:\\repos\\SMK INFORMATION SYSTEM\\smk information system\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E18676-8E04-40F2-A19B-760EB93747C7}|SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM.csproj|solutionrelative:smk information system\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageClassForm.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageClassForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\ManageClassForm.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageClassForm.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\ManageClassForm.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAAAlwAoBAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T07:13:30.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageClassForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageClassForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\ManageClassForm.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageClassForm.cs [Design]",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\ManageClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T07:13:30.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherNavigationForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\TeacherNavigationForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\TeacherNavigationForm.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\TeacherNavigationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeachingScheduleForm.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\TeachingScheduleForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\TeachingScheduleForm.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\TeachingScheduleForm.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\TeachingScheduleForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditProfileForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\EditProfileForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\EditProfileForm.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\EditProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageStudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageStudentForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\ManageStudentForm.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageTeacherForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageTeacherForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\ManageTeacherForm.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageTeacherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageScheduleForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageScheduleForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\ManageScheduleForm.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageScheduleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageScheduleForm.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageScheduleForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\ManageScheduleForm.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageScheduleForm.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\ManageScheduleForm.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAIAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\FrmLogin.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\FrmLogin.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\FrmLogin.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageTeacherForm.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageTeacherForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\ManageTeacherForm.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageTeacherForm.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\ManageTeacherForm.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAEwPEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminNavigationForm.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\AdminNavigationForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\AdminNavigationForm.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\AdminNavigationForm.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\AdminNavigationForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherNavigationForm.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\TeacherNavigationForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\TeacherNavigationForm.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\TeacherNavigationForm.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\TeacherNavigationForm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmViewSchedule.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\FrmViewSchedule.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\FrmViewSchedule.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\FrmViewSchedule.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\Form1.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\Form1.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminNavigationForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\AdminNavigationForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\AdminNavigationForm.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\AdminNavigationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\Program.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\Program.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\Program.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageStudentForm.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageStudentForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\ManageStudentForm.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageStudentForm.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\ManageStudentForm.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAswAoBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\Form1.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\Form1.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\Form1.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA0wBsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentNavigationForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\StudentNavigationForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\StudentNavigationForm.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\StudentNavigationForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmViewSchedule.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\FrmViewSchedule.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\FrmViewSchedule.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\FrmViewSchedule.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubjectForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\SubjectForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\SubjectForm.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\SubjectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentNavigationForm.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\StudentNavigationForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\StudentNavigationForm.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\StudentNavigationForm.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentEditProfileForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\StudentEditProfileForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\StudentEditProfileForm.cs",
+              "ToolTip": "C:\\Users\\messi\\source\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\StudentEditProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\Connection.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\Connection.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\Connection.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\Connection.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditProfileForm.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\EditProfileForm.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\EditProfileForm.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\EditProfileForm.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\EditProfileForm.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageClassForm.Designer.cs",
+              "DocumentMoniker": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageClassForm.Designer.cs",
+              "RelativeDocumentMoniker": "SMK INFORMATION SYSTEM\\ManageClassForm.Designer.cs",
+              "ToolTip": "D:\\repos\\SMK INFORMATION SYSTEM\\SMK INFORMATION SYSTEM\\ManageClassForm.Designer.cs",
+              "RelativeToolTip": "SMK INFORMATION SYSTEM\\ManageClassForm.Designer.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAvwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T07:13:30.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
